@@ -2819,9 +2819,9 @@ whatwg-url@^8.0.0, whatwg-url@^8.5.0:
     tr46 "^2.1.0"
     webidl-conversions "^6.1.0"
 
-"whatwg-url@https://github.com/GilbertoGojira/whatwg-url-rn.git":
+"whatwg-url@https://github.com/GilbertoGojira/whatwg-url-rn.git#11.0.1":
   version "11.0.1"
-  resolved "https://github.com/GilbertoGojira/whatwg-url-rn.git#80315e067983c2684534a1a426493d09d925d582"
+  resolved "https://github.com/GilbertoGojira/whatwg-url-rn.git#299d1c1fe059ef1598c095d4ca72021eae569f8a"
   dependencies:
     tr46 "^3.0.0"
     webidl-conversions "^7.0.0"

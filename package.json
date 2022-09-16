@@ -1,5 +1,5 @@
 {
-  "name": "data-urls",
+  "name": "data-urls-rn",
   "description": "Parses data: URLs",
   "keywords": [
     "data url",
@@ -26,7 +26,7 @@
   "dependencies": {
     "abab": "^2.0.6",
     "whatwg-mimetype": "^3.0.0",
-    "whatwg-url": "https://github.com/GilbertoGojira/whatwg-url-rn.git"
+    "whatwg-url": "https://github.com/GilbertoGojira/whatwg-url-rn.git#11.0.1"
   },
   "devDependencies": {
     "@domenic/eslint-config": "^2.0.0",
